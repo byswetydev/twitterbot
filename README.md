@@ -1,4 +1,4 @@
-# twitterbot-chomeur
+# twitterbot
 Bot Twitter qui tweet "Streameur is not a job" a un tweet contenant certaines caractéristiques
 
 This bot its Twitter bot with twitter API
