@@ -9,4 +9,6 @@ Work is the key lol. Download my project, get inspired, understand it and try yo
 
 Twitter API doc: https://python-twitter.readthedocs.io/en/latest/
 
+// it's test project, not serious.
+
 Goold luck !
