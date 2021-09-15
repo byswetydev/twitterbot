@@ -49,7 +49,6 @@ def start():
 start()
 
 # BOT fait un peu a l'arrache et avec quelque bug
-# account https://twitter.com/BotChomeur
 # j'ai franchement eu la flemme de a faire un fichier de log et de corriger les quelques bugs
 # si tu veux faire un bot du genre inspire toi et travaille toi même
 
