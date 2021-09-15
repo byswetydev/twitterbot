@@ -48,8 +48,8 @@ def start():
 
 start()
 
-# BOT fait un peu a l'arrache et avec quelque bug
-# j'ai franchement eu la flemme de a faire un fichier de log et de corriger les quelques bugs
-# si tu veux faire un bot du genre inspire toi et travaille toi même
+# BOT fait un peu à l'arrache et avec quelque bug
+# j'ai franchement eu la flemme de faire un fichier de log et de corriger les quelques bugs
+# si tu veux faire un bot du genre inspires-toi et travailles toi même
 
-# Dev By Fryzz Inspired Of V2F
+# Dev By Fryzz Inspired of V2F
